@@ -1,5 +1,5 @@
 ({
-    name: Blockly.Msg.blocks_uart, // Category Name
+    name: "App", // Category Name
     description: "ESP32 BLE UART",
     author: "microBlock",
     category: "Communication",
